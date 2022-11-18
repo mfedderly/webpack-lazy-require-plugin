@@ -1,0 +1,13 @@
+{
+  "name": "webpack-lazy-require-plugin",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/LazyRequirePlugin.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^5.0.0"
+  }
+}
