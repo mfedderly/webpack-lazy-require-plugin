@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "",
   "main": "src/LazyRequirePlugin.js",
+  "typings": "types.d.ts",
   "scripts": {},
   "keywords": [],
   "author": "",
